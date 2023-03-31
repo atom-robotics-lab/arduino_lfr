@@ -1,6 +1,6 @@
 # Arduino_lfr
 
-## Hardware useed
+## Hardware used
 * 5 array IR sensor
 * 12V DC motors
 * Arduino Nano
